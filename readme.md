@@ -81,4 +81,3 @@ mentee-project/
 
 This project is currently not distributed under a specified open-source license.
 
-C:.
